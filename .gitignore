@@ -1,2 +1,10 @@
 # Project exclude paths
 /target/
+.idea
+out/
+.directory
+*.iml
+
+.DS_Store
+.AppleDouble
+.LSOverride
